@@ -220,6 +220,3 @@ Secara umum data yang dibuat meliputi:
 - Relasi `pakai_promo` menggunakan `id_invoice` sebagai primary key agar satu invoice hanya menggunakan satu promo.
 - Relasi `ulasan` menggunakan unique constraint pada `no_resi` agar satu paket hanya memiliki satu ulasan.
 
-## Lisensi
-
-Repositori ini dibuat untuk kebutuhan akademik mata kuliah Sistem Manajemen Basis Data.
